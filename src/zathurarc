@@ -8,6 +8,7 @@
 # Copyright © 2020-Present Vasundhara Sharma
 
 
+set recolor true
 
 # Lighthaus Colors:
 
@@ -21,9 +22,9 @@ set notification-fg             "#18191E"
 set completion-bg               "#18191E" 
 set completion-fg               "#44B273" 
 set completion-group-bg         "#18191E" 
-set completion-group-fg         "#44B273" 
-set completion-highlight-bg     "#21252D" 
-set completion-highlight-fg     "#FFFF00" 
+set completion-group-fg         "#ED722E" 
+set completion-highlight-bg     "#FFFF00" 
+set completion-highlight-fg     "#21252D" 
 
 set index-bg                    "#18191E" 
 set index-fg                    "#44B273" 
@@ -48,4 +49,4 @@ set render-loading-bg           "#18191E"
 # Recolor mode settings
 
 set recolor-lightcolor          "#21252D" 
-set recolor-darkcolor           "#FFEE79" 
+set recolor-darkcolor           "#FFFADE" 

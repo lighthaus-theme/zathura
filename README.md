@@ -1,70 +1,35 @@
-# Zathura Lighthaus
+<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/zathura/73836df559ac535723be5eb3026303b82466f192/assets/zathura-badge.svg" width="250"><p>
+
+<p align="center">
+   <a href="https://www.buymeacoffee.com/asirohi"><img alt="Status" src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus-theme/3cc9fd60c69da89f56721ca9048f38709b3dc878/BuyUsACoffee.svg" width="150" height="23"></a>
+</p>
+
 A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [Zathura](https://git.pwmt.org/pwmt/zathura).
 
 ### Table of Contents
+
 - [Screenshots](#screenshots)
 - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 - [Version](#version)
 - [Bugs/Issues](#bugs/issues)
 - [License](#license)
 
 ### Screenshots
 
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/zathura/master/zathura%203-01.png"><p>
+<p align="center"><img src="https://github.com/lighthaus-theme/zathura/blob/master/assets/zathura-01.png?raw=true"><p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/zathura/master/zathura%202-01.png"><p>
+<p align="center"><img src="https://github.com/lighthaus-theme/zathura/blob/master/assets/zathura-02.png?raw=true"><p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/zathura/master/zathura%201-01.png"><p>
-
-Font used in the screenshots: [Cantarell](https://fonts.google.com/specimen/Cantarell)
+<p align="center"><img src="https://github.com/lighthaus-theme/zathura/blob/master/assets/zathura-03.png?raw=true"><p>
 
 
 ### Installation
-To use the Lighthaus theme for Zathura, copy the following contents into your `~/.config/zathura/zathurarc` file. </br>
 
-``` vim
-# Lighthaus Colors:
+To use the Lighthaus theme for Zathura, copy the following contents into your `~/.config/zathura/zathurarc` file.
 
-set notification-error-bg       "#FC2929" 
-set notification-error-fg       "#18191E" 
-set notification-warning-bg     "#E25600" 
-set notification-warning-fg     "#18191E" 
-set notification-bg             "#D68EB2" 
-set notification-fg             "#18191E" 
-
-set completion-bg               "#18191E" 
-set completion-fg               "#44B273" 
-set completion-group-bg         "#18191E" 
-set completion-group-fg         "#44B273" 
-set completion-highlight-bg     "#21252D" 
-set completion-highlight-fg     "#FFFF00" 
-
-set index-bg                    "#18191E" 
-set index-fg                    "#44B273" 
-set index-active-bg             "#21252D" 
-set index-active-fg             "#FFFF00" 
-
-set inputbar-bg                 "#21252D" 
-set inputbar-fg                 "#FFFADE" 
-set statusbar-bg                "#21252D" 
-set statusbar-fg                "#D68EB2" 
-
-set highlight-color             "#D68EB2" 
-set highlight-active-color      "#ff79c6" 
-
-set default-bg                  "#18191E" 
-set default-fg                  "#FFEE79" 
-
-set render-loading              true
-set render-loading-fg           "#FFEE79" 
-set render-loading-bg           "#18191E" 
-
-# Recolor mode settings
-
-set recolor-lightcolor          "#21252D" 
-set recolor-darkcolor           "#FFEE79" 
-```
-Lighthaus zathurarc can be found [`here`](https://github.com/lighthaus-theme/zathura/blob/master/src/zathurarc)
+`git clone https://github.com/lighthaus-theme/zathura ~/.config/zathura/`
 
 To use the dark mode, add the following line to your `zathurarc`
  ``` vim
@@ -73,16 +38,28 @@ To use the dark mode, add the following line to your `zathurarc`
 
 _For more information refer to the [project man pages](https://www.systutorials.com/docs/linux/man/1-zathura/)._
 
+### Contributing
+
+Check out [CONTRIBUTING](https://github.com/lighthaus-theme/lighthaus/blob/master/CONTRIBUTING.md). 
+
+Pull Request Template can be found [here](https://github.com/lighthaus-theme/lighthaus/blob/master/PULL_REQUEST_TEMPLATE.md) and Issues and Bugs Template [here](https://github.com/lighthaus-theme/lighthaus/blob/master/ISSUE_TEMPLATE.md).
+
+### Usage
+- `<Ctrl+r>` toggles between dark and light mode.
+<p align="center"><img src="https://github.com/lighthaus-theme/zathura/blob/master/assets/zathura-04.gif?raw=true"><p>
+
 ### Version
+
 ``` v
-v 1.0.0
+v 1.1.0
 ```
 
 _Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/)._ <br/>
 _All changes are recorded in [CHANGELOG](https://github.com/lighthaus-theme/zathura/blob/master/CHANGELOG.md)_
 
 ### Bugs/Issues
-Please report any bugs or issues [here](https://github.com/lighthaus-theme/zathura/issues).
+
+Please report any bugs or issues [here](https://github.com/lighthaus-theme/zathura/issues). Issues and Bugs Template can be found [here](https://github.com/lighthaus-theme/lighthaus/blob/master/ISSUE_TEMPLATE.md).
 
 ### License 
 

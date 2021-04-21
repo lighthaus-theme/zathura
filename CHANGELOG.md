@@ -1,12 +1,16 @@
-# Changelog
+<h2 align="center">Changelog</h2>
 
 ### Table of Contents
 - [v1.0.0](#v1.0.0)
+- [v1.1.0](#v1.1.0)
 - [Versioning System](#versioning-system)
 - [License](#license)
 
+### v1.1.0
+- Changed foreground color for better contrast ratio(14.61). Makes reading for longer times easier. _(21/04/2021)_
+
 ### v1.0.0
-- Initial Commit (_06/09/2020_)
+- Initial Commit _(06/09/2020)_
 
 ### Versioning System
 Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).  <br/>
