@@ -7,7 +7,8 @@
 - [License](#license)
 
 ### v1.1.0
-- Changed foreground color for better contrast ratio(14.61). Makes reading for longer times easier. _(21/04/2021)_
+- Changed foreground color for better contrast ratio(14.61).
+ Makes reading for longer times easier. _(21/04/2021)_
 
 ### v1.0.0
 - Initial Commit _(06/09/2020)_

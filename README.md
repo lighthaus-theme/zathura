@@ -50,7 +50,7 @@ Pull Request Template can be found [here](https://github.com/lighthaus-theme/lig
 
 ### Version
 
-``` v
+``` vim
 v 1.1.0
 ```
 
